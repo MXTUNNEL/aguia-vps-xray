@@ -32,4 +32,4 @@ Para evitar acessos não autorizados e garantir a integridade da instalação, o
 Certifique-se de estar logado como **root** no seu servidor Ubuntu/Debian. Copie o comando abaixo, cole no terminal da sua VPS e aperte ENTER:
 
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/aguia.sh](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/aguia.sh))
+bash <(curl -sL https://raw.githubusercontent.com/MXTUNNEL/aguia-vps-xray/main/aguia.sh)
